@@ -96,7 +96,9 @@ library docs.
 
 ## Credits
 
-Built by the [Pedantigo](https://github.com/Pedantigo) project. Design inspired by
+Built by the [Pedantigo](https://github.com/Pedantigo) project, alongside
+[smritea.ai](https://smritea.ai) — the persistent AI-memory platform whose day-to-day needs
+these open-source tools grew out of. Design inspired by
 [Pydantic AI](https://github.com/pydantic/pydantic-ai).
 
 ## License
